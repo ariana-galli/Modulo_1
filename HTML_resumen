@@ -1,0 +1,17 @@
+HTML - Resumen básico
+
+- Un archivo .html comienza con "<html>" y termina con "</html>"  
+- Las etiquetas se abren con "< >" y se cierran con "</ >"  
+- La estructura incluye "<head>" (info) y "<body>" (contenido)  
+
+- El contenido visible va dentro de "<body>"  
+- Para párrafos se usa "<p>"  
+- Para títulos "<h1>" a "<h6>"  
+
+- Listas desordenadas "<ul>" y ordenadas "<ol>"  
+- Elementos de lista "<li>"  
+
+- Enlaces "<a href='URL'>"  
+- Imágenes "<img src='ruta'>"  
+
+- Saltos de línea "<br>"  
