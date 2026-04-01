@@ -26,8 +26,6 @@ En general, se comienza importando librerías, luego se carga o genera informaci
 
 Todo se guarda automáticamente en la cuenta de Google del usuario, por lo que no es necesario preocuparse por perder cambios. Además, se puede acceder al mismo notebook desde distintos dispositivos sin problemas.
 
-Add Google Colab documentation
-
 ---
 
 ##  En resumen
