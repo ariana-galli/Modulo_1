@@ -21,7 +21,4 @@ Se combinan para desarrollar proyectos de forma clara y ordenada.
 Los archivos se guardan automáticamente en Google Drive y se pueden acceder desde cualquier dispositivo.
 
 ---
-
-## En resumen
-
-Es una herramienta simple y accesible para programar en Python y desarrollar proyectos rápidamente.
+En resumen es una herramienta simple y accesible para programar en Python y desarrollar proyectos rápidamente.
